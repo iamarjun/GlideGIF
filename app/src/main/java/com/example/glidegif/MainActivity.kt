@@ -75,6 +75,5 @@ class MainActivity : AppCompatActivity() {
 
         return Glide.with(this)
             .setDefaultRequestOptions(options)
-
     }
 }
